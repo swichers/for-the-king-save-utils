@@ -16,24 +16,34 @@ These scripts were created using WSL and are untested on an actual Linux setup.
 **saves-process.sh**: Copy all available saves from the destination folder into
 a backup folder and then unpack all backups into pure json.
 
-`./saves-process.sh -d /mnt/d/ftk-backups/ -- '/mnt/c/Users/example/AppData/LocalLow/IronOak Games/FTK/save/'`
+```sh
+./saves-process.sh -d /mnt/d/ftk-backups/ -- '/mnt/c/Users/example/AppData/LocalLow/IronOak Games/FTK/save/'
+```
 
 **saves-copy.sh**: Copy all available saves from the destination folder into a
 backup folder. Backups are renamed to include a timestamp of when the save was last modified.
 
-`./saves-copy.sh -d /mnt/d/ftk-backups/backups -- '/mnt/c/Users/example/AppData/LocalLow/IronOak Games/FTK/save/'`
+```sh
+./saves-copy.sh -d /mnt/d/ftk-backups/backups -- '/mnt/c/Users/example/AppData/LocalLow/IronOak Games/FTK/save/'
+```
 
 **save-copy.sh**: Copy an individual save into a backup folder.
 
-`./save-copy.sh -d /mnt/d/ftk-backups/backups -- '/mnt/c/Users/example/AppData/LocalLow/IronOak Games/FTK/save/example_save.run'`
+```sh
+./save-copy.sh -d /mnt/d/ftk-backups/backups -- '/mnt/c/Users/example/AppData/LocalLow/IronOak Games/FTK/save/example_save.run'
+```
 
 **save-unpack.sh**: Unpack a FTK savefile into JSON that can be parsed by JQ.
 
-`./save-unpack.sh -d /mnt/d/ftk-backups/unpack -- '/mnt/d/ftk-backups/backups/example_save.0221-01-02T00:55-08:00.run'`
+```sh
+./save-unpack.sh -d /mnt/d/ftk-backups/unpack -- '/mnt/d/ftk-backups/backups/example_save.0221-01-02T00:55-08:00.run'
+```
 
 **save-repack.sh**: Repack a FTK JSON file into a savefile that can be loaded in game.
 
-`./save-repack.sh -d /mnt/d/ftk-backups/repack -- '/mnt/d/ftk-backups/unpack/example_save.0221-01-02T00:55-08:00.json'`
+```sh
+./save-repack.sh -d /mnt/d/ftk-backups/repack -- '/mnt/d/ftk-backups/unpack/example_save.0221-01-02T00:55-08:00.json'
+```
 
 ## Save file format
 
