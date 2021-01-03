@@ -12,8 +12,6 @@ amuletBard2
 
 amuletBlued
 
-amuletBluedAvatar
-
 amuletCollar2
 
 amuletCrystal1
@@ -21,8 +19,6 @@ amuletCrystal1
 amuletCrystal2
 
 amuletElements
-
-amuletElementsAvatar
 
 amuletFortitude1
 
@@ -34,13 +30,9 @@ amuletGladiator2
 
 amuletGoldMedal
 
-amuletGoldMedalAvatar
-
 amuletHealing
 
 amuletHealth
-
-amuletHealthAvatar
 
 amuletHunter1
 
@@ -60,8 +52,6 @@ amuletNecklace2
 
 amuletNoose
 
-amuletNooseAvatar
-
 amuletPearls1
 
 amuletPearls2
@@ -76,15 +66,11 @@ amuletRuff2
 
 amuletScare
 
-amuletScareAvatar
-
 amuletScarf1
 
 amuletScarf2
 
 amuletSilverMedal
-
-amuletSilverMedalAvatar
 
 amuletSouls
 
@@ -134,37 +120,11 @@ ancientStaffDeathRay
 
 ancientStaffReg
 
-armorAdventureDisplay
-
-armorAdventureDisplayAvatar
-
-armorAdventureF
-
-armorAdventureM
-
-armorAssassinDisplay
-
-armorAssassinDisplayAvatar
-
-armorAssassinF
-
-armorAssassinM
-
 armorBlacksmith
-
-armorBlacksmithF
-
-armorBlacksmithM
 
 armorBlessedLeather
 
 armorBusker
-
-armorBuskerF
-
-armorChestPlateDisplay
-
-armorChestPlateDisplayAvatar
 
 armorCloak1
 
@@ -175,12 +135,6 @@ armorCloak3
 armorCloak4
 
 armorCloak5
-
-armorCloakDisplay
-
-armorCloakDisplayAvatar
-
-armorCloakShadowF
 
 armorCloth
 
@@ -196,103 +150,19 @@ armorCloth5
 
 armorCultist
 
-armorCultistF
-
-armorCultistM
-
 armorDown
 
-armorDragonDisplay
-
-armorDragonDisplayAvatar
-
-armorDragonF
-
-armorDragonM
-
-armorDreamCoatDisplay
-
-armorDreamCoatDisplayAvatar
-
-armorDreamCoatF
-
-armorDreamCoatM
-
-armorExplorerDisplay
-
-armorExplorerDisplayAvatar
-
-armorExplorerF
-
-armorExplorerM
-
 armorFishPerson
-
-armorFishermanDisplay
-
-armorFishermanDisplayAvatar
 
 armorFishing
 
 armorFrost
 
-armorFrostArmorDisplay
-
-armorFrostArmorDisplayAvatar
-
-armorFrostArmorF
-
-armorFrostArmorM
-
 armorFrostMonk
-
-armorFrostMonkF
-
-armorFrostarmorM
-
-armorFullPlateDisplay
-
-armorFullPlateDisplayAvatar
-
-armorFullPlateF
-
-armorFullPlateM
-
-armorFullSplintDisplay
-
-armorFullSplintDisplayAvatar
-
-armorFullSplintF
-
-armorFullSplintM
-
-armorGambesonDisplay
-
-armorGambesonDisplayAvatar
-
-armorGambesonF
-
-armorGambesonM
 
 armorGladiator
 
 armorGoblin
-
-armorGoblinDisplay
-
-armorGoblinF
-
-armorGoblinM
-
-armorGuardDisplay
-
-armorHardLeatherDisplay
-
-armorHardLeatherDisplayAvatar
-
-armorHardLeatherF
-
-armorHardLeatherM
 
 armorHeavy1
 
@@ -306,17 +176,7 @@ armorHeavy5
 
 armorHell
 
-armorHellDisplay
-
-armorHellDisplayAvatar
-
-armorHellF
-
-armorHellM
-
 armorHerbalist
-
-armorHerbalistM
 
 armorHobo
 
@@ -326,61 +186,11 @@ armorHoboCat
 
 armorHoboDevil
 
-armorHoboDevilF
-
-armorHoboDevilM
-
-armorHoboF
-
 armorHoboS
 
 armorHunter
 
-armorHunterF
-
-armorJesterDisplay
-
-armorJesterDisplayAvatar
-
-armorJesterF
-
-armorJesterM
-
 armorLeather
-
-armorLeatherFullDisplay
-
-armorLeatherFullDisplayAvatar
-
-armorLeatherFullF
-
-armorLeatherFullM
-
-armorLeatherVestBlessDisplay
-
-armorLeatherVestBlessedDisplay
-
-armorLeatherVestBlessedF
-
-armorLeatherVestBlessedM
-
-armorLeatherVestDisplay
-
-armorLeatherVestDisplayAvatar
-
-armorLeatherVestF
-
-armorLeatherVestM
-
-armorMageDisplay
-
-armorMageF
-
-armorMageM
-
-armorMagicDisplay
-
-armorMagicDisplayAvatar
 
 armorMagicHeavy
 
@@ -400,65 +210,19 @@ armorMedium6
 
 armorMinstrel
 
-armorMinstrelM
-
 armorMonk
-
-armorMysticDisplay
-
-armorMysticDisplayAvatar
-
-armorMysticF
-
-armorMysticM
 
 armorNoble
 
-armorNobleF
-
-armorNobleM
-
-armorPerformerDisplay
-
-armorPerformerDisplayAvatar
-
-armorPerformerF
-
-armorPerformerM
-
 armorPirate
 
-armorPirateDisplay
-
-armorPirateF
-
-armorPirateM
-
 armorPlate
-
-armorPlateChestF
-
-armorPlateChestM
-
-armorPlatedLeatherDisplay
-
-armorPlatedLeatherDisplayAvatar
-
-armorPlatedLeatherF
-
-armorPlatedLeatherM
 
 armorPriest
 
 armorProfessor
 
 armorPumpkin
-
-armorPumpkinDisplay
-
-armorPumpkinF
-
-armorPumpkinM
 
 armorRobe1
 
@@ -470,119 +234,25 @@ armorRobe4
 
 armorRobe5
 
-armorRoyalDisplay
-
-armorRoyalDisplayAvatar
-
-armorRoyalF
-
-armorRoyalM
-
 armorSailor
-
-armorSailorF
-
-armorSailorM
 
 armorScholar
 
-armorScholarF
-
-armorShadowDisplay
-
-armorShadowDisplayAvatar
-
-armorShadowF
-
-armorShadowM
-
-armorSimpleRobeDisplay
-
-armorSimpleRobeDisplayAvatar
-
-armorSimpleRobeF
-
-armorSimpleRobeM
-
 armorSnowGoblin
-
-armorSnowGoblinDisplay
-
-armorSnowGoblinDisplayAvatar
-
-armorSnowGoblinF
-
-armorSnowGoblinM
-
-armorSoldierDisplay
-
-armorSplintVestDisplay
-
-armorSplintVestDisplayAvatar
-
-armorSplintVestF
-
-armorSplintVestM
 
 armorStPatrick
 
 armorStPattrick
 
-armorStPattrickF
-
-armorStPattrickM
-
-armorTatteredRobeDisplay
-
-armorTatteredRobeDisplayAvatar
-
-armorTatteredRobeF
-
-armorTatteredRobeM
-
-armorThiefDisplay
-
-armorThiefDisplayAvatar
-
 armorTrapper
 
-armorTrapperM
-
 armorTrapperNEW
-
-armorTreasureHunterF
-
-armorTreasureHunterM
-
-armorTunicDisplay
-
-armorTunicDisplayAvatar
-
-armorTunicF
-
-armorTunicM
 
 armorUp
 
 armorWinter
 
-armorWinterF
-
-armorWinterM
-
-armorWizRobeDisplay
-
-armorWizardDisplay
-
-armorWizardDisplayAvatar
-
-armorWizardF
-
-armorWizardM
-
 armorWoodcutter
-
-armorWoodcutterF
 
 bluntAnchor
 
@@ -696,19 +366,9 @@ boot
 
 bootsAdventure
 
-bootsAdventureDisplay
-
-bootsAdventureDisplayAvatar
-
 bootsApprentice
 
-bootsApprenticeDisplay
-
 bootsAssassin
-
-bootsAssassinDisplay
-
-bootsAssassinDisplayAvatar
 
 bootsBard1
 
@@ -722,19 +382,11 @@ bootsBard5
 
 bootsBeginner
 
-bootsBeginnerDisplay
-
 bootsBlacksmith
 
 bootsBusker
 
-bootsBuskerF
-
 bootsCloth
-
-bootsClothDisplay
-
-bootsClothDisplayAvatar
 
 bootsDemon
 
@@ -742,51 +394,25 @@ bootsDevil
 
 bootsDragon
 
-bootsDragonDisplay
-
-bootsDragonDisplayAvatar
-
 bootsDream
 
-bootsDreamDisplay
-
-bootsDreamDisplayAvatar
-
 bootsExplorer
-
-bootsExplorerDisplay
-
-bootsExplorerDisplayAvatar
 
 bootsFishPerson
 
 bootsFisherman
 
-bootsFishermanDisplay
-
-bootsFishermanDisplayAvatar
-
 bootsFishing
-
-bootsFishingDisplay
 
 bootsFrost
 
 bootsFrostBoots
 
-bootsFrostDisplay
-
-bootsFrostDisplayAvatar
-
 bootsFrostMonk
-
-bootsFrostMonkF
 
 bootsGladiator
 
 bootsGuard
-
-bootsGuardDisplay
 
 bootsHeavy1
 
@@ -800,19 +426,9 @@ bootsHeavy5
 
 bootsHell
 
-bootsHellDisplay
-
-bootsHellDisplayAvatar
-
 bootsHerbalist
 
-bootsHerbalistM
-
 bootsHide
-
-bootsHideDisplay
-
-bootsHideDisplayAvatar
 
 bootsHobo
 
@@ -820,45 +436,23 @@ bootsHoboC
 
 bootsHoboCat
 
-bootsHoboF
-
 bootsHoboS
 
 bootsHunter
 
-bootsHunterF
-
 bootsIronGreaves
 
-bootsIronGreavesDisplay
-
 bootsJester
-
-bootsJesterDisplay
-
-bootsJesterDisplayAvatar
 
 bootsKamiik
 
 bootsKamiks
 
-bootsKamiksDisplay
-
-bootsKamiksDisplayAvatar
-
 bootsKirbySlippers
 
 bootsLeather
 
-bootsLeatherDisplay
-
-bootsLeatherDisplayAvatar
-
 bootsLeatherGreaves
-
-bootsLeatherGreavesDisplay
-
-bootsLeatherGreavesDisplayAvatar
 
 bootsLight1
 
@@ -872,13 +466,7 @@ bootsLight5
 
 bootsMage
 
-bootsMageDisplay
-
 bootsMagic
-
-bootsMagicDisplay
-
-bootsMagicDisplayAvatar
 
 bootsMedium1
 
@@ -892,35 +480,15 @@ bootsMedium5
 
 bootsMetal
 
-bootsMetalDisplay
-
-bootsMetalDisplayAvatar
-
 bootsMinstrel
-
-bootsMinstrelM
 
 bootsMonk
 
 bootsMystic
 
-bootsMysticDisplay
-
-bootsMysticDisplayAvatar
-
 bootsPerformer
 
-bootsPerformerDisplay
-
-bootsPerformerDisplayAvatar
-
 bootsPirate
-
-bootsPirateAvatar
-
-bootsPirateDisplay
-
-bootsPirateDisplayAvatar
 
 bootsPower
 
@@ -930,67 +498,29 @@ bootsQuick
 
 bootsRoyal
 
-bootsRoyalDisplay
-
-bootsRoyalDisplayAvatar
-
 bootsScholar
-
-bootsScholarF
 
 bootsScholarWraps
 
-bootsScholarWrapsDisplay
-
 bootsShadow
-
-bootsShadowDisplay
 
 bootsSimpleCloth
 
 bootsSlippers
 
-bootsSlippersDisplay
-
-bootsSlippersDisplayAvatar
-
 bootsSoldier
-
-bootsSoldierDisplay
-
-bootsSoldierDisplayAvatar
 
 bootsSpeed
 
-bootsSpeedDisplay
-
 bootsSplintGreaves
-
-bootsSplintGreavesDisplay
-
-bootsSplintGreavesDisplayAvatar
 
 bootsStrength
 
-bootsStrengthDisplay
-
 bootsSwamp
-
-bootsSwampDisplay
-
-bootsThiefDisplayAvatar
-
-bootsTraperM
 
 bootsTrapper
 
-bootsTrapperM
-
-bootsTravelDisplay
-
 bootsTravelling
-
-bootsTravellingDisplay
 
 bootsTreasureHunter
 
@@ -1006,19 +536,9 @@ bootsWizard4
 
 bootsWizard5
 
-bootsWizardDisplay
-
-bootsWizardDisplayAvatar
-
 bootsWoodcutter
 
-bootsWoodcutterF
-
 bootsWornLeather
-
-bootsWornLeatherDisplay
-
-bootsWornLeatherDisplayAvatar
 
 bootsplayerbard
 
@@ -1296,10 +816,6 @@ helmetHell
 
 helmetHoodConflict
 
-helmetHoodConflictDisplay
-
-helmetHoodConflictDisplayAvatar
-
 helmetHorned
 
 helmetKS
@@ -1309,8 +825,6 @@ helmetKuroMask
 helmetLich
 
 helmetLucky
-
-helmetMaskeradeM
 
 helmetMasquerade
 
@@ -1335,8 +849,6 @@ helmetMysticCat
 helmetNewYear
 
 helmetNoble
-
-helmetNobleM
 
 helmetNone
 
@@ -1818,8 +1330,6 @@ trinketBanner
 
 trinketBeltMajestic
 
-trinketBeltMajesticAvatar
-
 trinketBlackCat
 
 trinketChime
@@ -1833,8 +1343,6 @@ trinketCrystal1
 trinketCrystal2
 
 trinketCrystalAnvil
-
-trinketCrystalAnvilAvatar
 
 trinketCurseImmune
 
@@ -1851,8 +1359,6 @@ trinketDistraction
 trinketEncourage
 
 trinketEster
-
-trinketEsterAvatar
 
 trinketEvade1
 
@@ -1894,8 +1400,6 @@ trinketHorn2
 
 trinketHourglass
 
-trinketHourglassAvatar
-
 trinketIceImmune
 
 trinketIcePartyImmune
@@ -1907,8 +1411,6 @@ trinketLightningImmune
 trinketLightningPartyImmune
 
 trinketLitteratus
-
-trinketLitteratusAvatar
 
 trinketLuckyCoin
 
@@ -1946,8 +1448,6 @@ trinketPoisonImmune1
 
 trinketRainyDay
 
-trinketRainyDayAvatar
-
 trinketRainyDaySpecial
 
 trinketReflect1
@@ -1976,11 +1476,7 @@ trinketSun
 
 trinketTalent
 
-trinketTalentAvatar
-
 trinketTheft
-
-trinketTheftAvatar
 
 trinketUmbrella
 
@@ -2035,4 +1531,3 @@ weaponTrailChaos
 weaponTrailFire
 
 weaponTrailLightning
-
